@@ -14,3 +14,4 @@ my junior python prjects
   math.cos(i) == cos(i)<br>
   mat.tan(i) == tan(i)<br>
 </h5>
+<span style="color:red;">This is red text.</span>
