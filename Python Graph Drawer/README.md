@@ -1,7 +1,5 @@
-### python-projects
+python-projects
 my junior python prjects 
-
-<h2 style="color:green" align="center">Saving chart to a file using savefig</h2>
 
 <h1> Python Grahp Drawer</h1><br>
 <h3> U can use every Arithmatic operation and use python math library functions Like: </h3><br>
