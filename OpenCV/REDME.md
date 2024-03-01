@@ -1,0 +1,1 @@
+Turorial and some Junior Projects maded with opencv
