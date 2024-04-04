@@ -15,5 +15,6 @@ Simplifies the Steps:
 It's intuitive, efficient, and just plain cool! Elevate computing and gaming experience .
 #VirtualMouse #GestureControl #MediaPipe #OpenCV #MachineLearning
 
-GitHub Source Code: 
+GitHub Source Code: https://github.com/marslinoED/python-projects/tree/main/Computer%20Vision%20Projects
+
 Kaggle Profile: https://www.kaggle.com/marslinoedward
