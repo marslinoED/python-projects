@@ -1,0 +1,1 @@
+It's just a normal swipe keyboard #App that I took as a challenge to my #computer_vision #CV skills and I'm still working on developing another version that can predict words better using #NLP models.
