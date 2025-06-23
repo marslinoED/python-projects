@@ -1,2 +1,2 @@
 # python-projects
-my junior python prjects 
+my junior python Projects 

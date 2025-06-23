@@ -1,5 +1,5 @@
 python-projects<br>
-my junior python prjects 
+my junior python Projects
 
 <h1> Python Grahp Drawer</h1><br>
 <h3> U can use every Arithmatic operation and use python math library functions Like: </h3><br>
